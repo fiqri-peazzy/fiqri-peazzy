@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Fiqri 👋
 
-<!--
-**fiqri-peazzy/fiqri-peazzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Profession / Role
 
-Here are some ideas to get you started:
+**Full Stack Developer** — biasa mengembangkan aplikasi website (hampir expert), aplikasi desktop (cukup mahir), dan sedang belajar mobile apps. Saat ini masih unemployed namun aktif mengasah skill melalui project pribadi dan open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack / Skills
+
+**Backend:**  
+Laravel, CodeIgniter, PHP, Django, Flask, Node / Express
+
+**Frontend:**  
+JavaScript, HTML, CSS, Bootstrap, React Native
+
+**Database:**  
+SQL dan NoSQL
+
+**Others:**  
+Git, REST API, Desktop App (C#/Java), Mobile App (Flutter – learning stage)
+
+---
+
+## 📝 Short Bio / Career Summary
+
+Saya adalah seorang Full Stack Developer yang gemar membangun solusi digital dengan pendekatan praktis dan efisien. Motivasi utama saya adalah menciptakan aplikasi yang berguna, mudah diakses, dan memberikan pengalaman terbaik bagi pengguna.  
+Saya percaya bahwa belajar adalah perjalanan tanpa akhir — setiap project baru adalah kesempatan untuk berkembang dan berkontribusi.
+
+---
+
+## 🌐 Social Links
+
+- [GitHub](https://github.com/fiqri-peazzy)
+<!-- Tambahkan LinkedIn, Twitter, atau personal website kalau ada ya -->
+
+---
+
+## 🎮 Fun Facts / Interests
+
+- Hobi main MOBA & FPS game mobile 🎮
+- Suka main game musik seperti OSU! 🎶
+- Selalu mencari cara kreatif untuk menghubungkan teknologi dengan hobi
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_
