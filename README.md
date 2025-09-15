@@ -32,6 +32,8 @@ Saya percaya bahwa belajar adalah perjalanan tanpa akhir — setiap project baru
 ## 🌐 Social Links
 
 - [GitHub](https://github.com/fiqri-peazzy)
+- [Facebook](https://web.facebook.com/fiq.ri.75457/)
+- [Instagram](https://www.instagram.com/fiqriawan28_/)
 <!-- Tambahkan LinkedIn, Twitter, atau personal website kalau ada ya -->
 
 ---
