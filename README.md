@@ -34,4 +34,7 @@ Saya percaya bahwa belajar adalah perjalanan tanpa akhir — setiap project baru
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_
+✨ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=fiqri-peazzy&icon=0&color=0)](https://visitcount.itsvg.in)
