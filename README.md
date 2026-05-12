@@ -1,8 +1,5 @@
 # Hi there, I'm Fiqri 👋
 
-## 💻 Profession / Role
-
-**Full Stack Developer** — biasa mengembangkan aplikasi website (hampir expert), aplikasi desktop (cukup mahir), dan sedang belajar mobile apps. Saat ini masih unemployed namun aktif mengasah skill melalui project pribadi dan open-source.
 
 ---
 
@@ -12,14 +9,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fiq.ri.75457) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqriawan28_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@peazzy28) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fiqriawan2863) 
-
----
-
-## 🎮 Fun Facts / Interests
-
-- Hobi main MOBA & FPS game mobile 🎮
-- Suka main game musik seperti OSU! 🎶
-- Selalu mencari cara kreatif untuk menghubungkan teknologi dengan hobi
 
 ---
 ### ✍️ Random Dev Quote
