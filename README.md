@@ -1,24 +1,128 @@
-# Hi there, I'm Fiqri 👋
+<div align="center">
 
----
+<img src="./banner.png" alt="Fiqri Banner" width="100%" />
 
-## 💻 Tech Stack
+<br />
 
-### 🖥️ Backend & API
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=plastic&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=plastic&logoColor=%23000000) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+<h1>Hi there, I'm Fiqri</h1>
 
-### 🎨 Frontend & Mobile
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4E56A6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Python+Enthusiast;Still+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=fiqri-peazzy&label=Profile+Views&color=4e56a6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/fiqri-peazzy?label=Followers&style=flat&color=4e56a6" alt="GitHub followers" />
+</p>
 
-### 📊 Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+</div>
 
----
+<br />
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqriawan28_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fiqriawan2863) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@peazzy28) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fiq.ri.75457)
+## About Me
 
----
+I am a developer from Indonesia currently focused on building web applications with the Laravel and React ecosystems, while also exploring data science and machine learning. Still learning, still building.
+
+<br />
+
+## Tech Stack
+
+<p>Auto-scrolling stack — GitHub does not allow click-drag sliders (JavaScript is stripped from README files for security), so this marquee is the closest interactive-looking effect available.</p>
+
+<p align="center"><b>Backend & API</b></p>
+<p align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,js,express" alt="Backend stack" height="55" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" height="35" />
+&nbsp;
+<img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000" alt="Filament" height="35" />
+&nbsp;
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" height="35" />
+</marquee>
+
+</p>
+
+<p align="center"><b>Frontend & Mobile</b></p>
+<p align="center">
+
+<marquee behavior="scroll" direction="right" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap" alt="Frontend stack" height="55" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="35" />
+</marquee>
+
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database stack" height="55" />
+</marquee>
+
+</p>
+
+<p align="center"><b>Data Science & Machine Learning</b></p>
+<p align="center">
+
+<marquee behavior="scroll" direction="right" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=py,pytorch" alt="Data science stack" height="55" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="35" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="35" />
+&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="35" />
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="35" />
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" height="35" />
+</marquee>
+
+</p>
+
+<br />
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fiqri-peazzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqri-peazzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqri-peazzy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<br />
+
+## Socials
+
+<div align="center">
+
+<a href="https://instagram.com/fiqriawan28_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://youtube.com/@fiqriawan2863" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://tiktok.com/@peazzy28" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://facebook.com/fiq.ri.75457" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4e56a6&height=100&section=footer" width="100%" />
+
+</div>
