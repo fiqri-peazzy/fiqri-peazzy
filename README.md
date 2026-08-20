@@ -27,8 +27,6 @@ I am a developer from Indonesia currently focused on building web applications w
 
 ## Tech Stack
 
-<p>Auto-scrolling stack — GitHub does not allow click-drag sliders (JavaScript is stripped from README files for security), so this marquee is the closest interactive-looking effect available.</p>
-
 <p align="center"><b>Backend & API</b></p>
 <p align="center">
 
@@ -89,12 +87,8 @@ I am a developer from Indonesia currently focused on building web applications w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiqri-peazzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqri-peazzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqri-peazzy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiqri-peazzy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
