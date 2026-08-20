@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner2.png" alt="Fiqri Banner" width="100%" />
+<img src="./banner3.png" alt="Fiqri Banner" width="100%" />
 
 <br />
 
